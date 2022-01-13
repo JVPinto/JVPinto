@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joana Vaz Pinto, a professor in Microelectronics adn devices
-- 👀 I’m interested in simulation of physical phenomenas and devices
+- 👀 I’m interested in simulation of physical phenomena and devices
 - 🌱 I’m currently learning Pythin based programming (basic steps)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jdvp@fct.unl.pt
